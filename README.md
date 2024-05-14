@@ -1,4 +1,4 @@
-# discordeno-discordjsvoice-example
+# Discordeno + @discordjs/voice + Playdl 24/7 Music Bot
 Discordeno + @discordjs/voice + Playdl 24/7 Music Bot that uses live youtube videos
 
 ## How to run
