@@ -1,0 +1,20 @@
+{
+  "name": "discordeno-discordjsvoice-example",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discordeno": "^18.0.0",
+    "ffmpeg-static": "^4.2.7",
+    "libsodium-wrappers": "^0.7.11",
+    "opusscript": "^0.0.8",
+    "play-dl": "^1.9.7"
+  },
+  "scripts": {
+    "start": "node --inspect ./src/client.js"
+  },
+  "author": "RanAwaySuccessfully",
+  "license": "Unlicense"
+}
